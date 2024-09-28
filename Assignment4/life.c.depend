@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1726878253 source:c:\users\maver\onedrive\desktop\life.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1727116042 source:c:\users\maver\onedrive\desktop\life.c\life.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
