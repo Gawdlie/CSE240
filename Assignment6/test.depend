@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1728328503 source:c:\users\maver\onedrive\desktop\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"slist.h"
+
+1728103290 c:\users\maver\onedrive\desktop\test\slist.h
+	<stdio.h>
+
+1728328390 source:c:\users\maver\onedrive\desktop\test\slist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"slist.h"
+
